@@ -38,7 +38,10 @@ Build an isolated home lab to practice Blue Team cybersecurity skills: monitorin
 ---
 
 ## 📂 Screenshots & Logs
-*Coming soon:* screenshots of ping traffic, Wireshark captures, and firewall logs for proof of work.
+
+### ICMP Traffic Capture
+![ICMP Capture](screenshots/icmp_ping_wireshark.png)
+
 
 ---
 
