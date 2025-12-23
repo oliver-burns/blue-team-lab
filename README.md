@@ -1,19 +1,55 @@
-## Blue Team Home Lab
+# 🔵 Blue Team Lab
 
-### Objective
-Build an isolated lab to observe, log, and detect network activity.
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-039BE5?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-FF0000?style=for-the-badge&logo=nmap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Setup
-- Kali Linux (attacker)
-- Ubuntu Server (defender)
-- Isolated host-only network
+---
 
-### Experiments
-- ICMP traffic capture
-- Nmap reconnaissance detection
-- Firewall logging analysis
+## 📝 Objective
+Build an isolated home lab to practice Blue Team cybersecurity skills: monitoring, analyzing, and detecting network activity.
 
-### Skills Learned
-- Network analysis
-- Traffic inspection
-- Attack detection
+---
+
+## 💻 Lab Setup
+- **Attacker VM:** Kali Linux  
+- **Defender VM:** Ubuntu  
+- **Network:** Host-only / internal network (traffic flows only between VMs)  
+
+---
+
+## 🔹 Experiments Completed
+- Captured ICMP (ping) traffic using Wireshark  
+- Simulated reconnaissance scans with Nmap  
+- Configured firewall logging on Ubuntu to detect network scans  
+- Practiced analyzing traffic and identifying suspicious activity  
+
+---
+
+## 🛠️ Skills Practiced
+- Network configuration and segmentation  
+- Traffic monitoring and packet analysis  
+- Logging and detection of suspicious activity  
+- Linux command line & networking tools  
+- Basic Blue Team operations  
+
+---
+
+## 📂 Screenshots & Logs
+*Coming soon:* screenshots of ping traffic, Wireshark captures, and firewall logs for proof of work.
+
+---
+
+## 🚀 Future Work
+- Capture and analyze more advanced attack types  
+- Automate log analysis with Python scripts  
+- Explore alerting and dashboarding tools (ELK Stack, Grafana)  
+- Document lab experiments in more detail  
+
+---
+
+## 📈 GitHub Profile Integration
+This project contributes to my [GitHub profile](https://github.com/oliver-burns) showcasing active Blue Team learning.
+
