@@ -24,7 +24,8 @@ Build an isolated home lab to practice Blue Team cybersecurity skills: monitorin
 - Captured ICMP (ping) traffic using Wireshark  
 - Simulated reconnaissance scans with Nmap  
 - Configured firewall logging on Ubuntu to detect network scans  
-- Practiced analyzing traffic and identifying suspicious activity  
+- Practiced analyzing traffic and identifying suspicious activity
+- Practised 
 
 ---
 
