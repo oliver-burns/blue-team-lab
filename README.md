@@ -35,7 +35,7 @@ Build an isolated home lab to practice Blue Team cybersecurity skills: monitorin
 - Logging and detection of suspicious activity  
 - Linux command line & networking tools  
 - Basic Blue Team operations
-- Linux log analysis ('journalctl','/var/log/auth.log)
+- Linux log analysis ('journalctl','/var/log/auth.log')
 - Detecting failed authentication attempts (PAM)
 - Sudo command auditing
 - Basic networks monitoring (ICMP packets)
