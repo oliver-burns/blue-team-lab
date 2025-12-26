@@ -43,7 +43,7 @@ Build an isolated home lab to practice Blue Team cybersecurity skills: monitorin
 ### ICMP Traffic Capture
 ![ICMP Capture](screenshots/ICMP-Packet-Blue-Team-Lab.png)
 ![Successful Login](screenshots/successful_login.png)
-![Failed Sudo Authentication](screenshots/failed_sudo.png)
+![Failed Sudo Authentication](screenshots/failed_sudo.png.png)
 
 
 ---
