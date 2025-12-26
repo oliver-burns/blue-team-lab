@@ -25,7 +25,7 @@ Build an isolated home lab to practice Blue Team cybersecurity skills: monitorin
 - Simulated reconnaissance scans with Nmap  
 - Configured firewall logging on Ubuntu to detect network scans  
 - Practiced analyzing traffic and identifying suspicious activity
-- Practised 
+- Linux log analysis
 
 ---
 
@@ -34,7 +34,11 @@ Build an isolated home lab to practice Blue Team cybersecurity skills: monitorin
 - Traffic monitoring and packet analysis  
 - Logging and detection of suspicious activity  
 - Linux command line & networking tools  
-- Basic Blue Team operations  
+- Basic Blue Team operations
+- Linux log analysis ('journalctl','/var/log/auth.log)
+- Detecting failed authentication attempts (PAM)
+- Sudo command auditing
+- Basic networks monitoring (ICMP packets)
 
 ---
 
